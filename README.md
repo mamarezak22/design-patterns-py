@@ -1,1 +1,1 @@
-# desgin patterns written in sweet python
+# design patterns written in sweet python
